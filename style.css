@@ -1,3 +1,57 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+/* start of first section*/
+#container {
+    display: flex;
+    background-image: url(./images/shapes/Group\ 8450.png);
+    background-position: relative;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.main-text {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.orange {
+    color: orange;
+}
+
+.button-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-weight: 700;
+}
+
+.main-image img {
+    width: 80%;
+}
+
+/*end of first section*/
+
+/* start of second section*/
+#banner {
+    display: flex;
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-top: 50px;
+
+}
+
+.button-btn-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 50px;
+    border-radius: 15px;
+    font-weight: 700;
+}
+
+/*end of second section*/
