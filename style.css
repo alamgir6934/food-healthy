@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: antiquewhite;
+    background-image: url(./images/shapes/Group\ 8446.png);
 }
 
 /* start of first section*/
@@ -93,5 +93,37 @@ h4 {
     width: 99%;
 }
 
+#social-media {
+    display: flex;
+    margin-top: 50px;
+    width: 78%;
+    height: 50%;
+    margin-left: 5%;
+    padding-left: 158px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+    box-shadow: 10px 10px 40px grey;
+}
+
+
+.subscriber {
+    justify-content: space-evenly;
+    font-size: 15px;
+    margin-bottom: 80%;
+}
+
+
 
 /*end of third section*/
+
+/* footer start */
+footer {
+    background-color: antiquewhite;
+    text-align: center;
+    width: 90%;
+    margin-left: 65px;
+    border-radius: 5px;
+}
+
+
+/* footer end */
