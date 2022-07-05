@@ -106,10 +106,13 @@ h4 {
 }
 
 
-.subscriber {
+/* .subscriber {
     justify-content: space-evenly;
     font-size: 15px;
-    margin-bottom: 80%;
+} */
+.title1 p {
+    margin-bottom: 20px;
+    justify-content: space-evenly;
 }
 
 
